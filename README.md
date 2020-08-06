@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there 👋 [![Hi there](http://www.zpoint.xyz:8080/count/tag.svg?url=github%2Fzpoint)](https://rushter.com/blog/github-profile-markdown/)
 
 <!--
-**chaos-zhu/chaos-zhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**zpoint/zpoint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+🌱 I’m currently working on [go-Internals](https://github.com/zpoint/go-Internals) off the work time
 -->
+
+- 🔭 I’m currently working on [Beyond](https://cn.beyondsoft.com/).
+- 🌱 I’m currently learning [<<react>>](https://github.com/facebook/react/)
+- 🤔  Years of experiences working with JavaScript
+- 📫 How to reach me: [https://zhulijun.club](https://zhulijun.club)
+
+ [![chaos-zhu's github stats](https://github-readme-stats.vercel.app/api?username=rubinera1n&theme=cobalt)](https://github.com/rubinera1n)
