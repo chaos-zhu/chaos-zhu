@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on [Beyond](https://cn.beyondsoft.com/).
-- 🌱 I’m currently learning [<<react>>](https://github.com/facebook/react/)
+- 🌱 I’m currently learning [react](https://github.com/facebook/react/)
 - 🤔  Years of experiences working with JavaScript
 - 📫 How to reach me: [https://zhulijun.club](https://zhulijun.club)
 
- [![chaos-zhu's github stats](https://github-readme-stats.vercel.app/api?username=chaos-zhu&theme=cobalt)](https://github.com/chaos-zhu)
+ [![chaos-zhu's github stats](https://github-readme-stats.vercel.app/api?username=igorcanadi&theme=cobalt)](https://github.com/igorcanadi)
