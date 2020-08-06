@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - 🤔  Years of experiences working with JavaScript
 - 📫 How to reach me: [https://zhulijun.club](https://zhulijun.club)
 
- [![chaos-zhu's github stats](https://github-readme-stats.vercel.app/api?username=rubinera1n&theme=cobalt)](https://github.com/rubinera1n)
+ [![chaos-zhu's github stats](https://github-readme-stats.vercel.app/api?username=chaos-zhu&theme=cobalt)](https://github.com/chaos-zhu)
