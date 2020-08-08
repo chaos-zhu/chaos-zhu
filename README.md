@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on [Beyond](https://cn.beyondsoft.com/).
-- 🌱 I’m currently learning [react](https://github.com/facebook/react/)
+- 🌱 I’m currently learning [vue3.0](https://github.com/facebook/react/)
 - 🤔  Years of experiences working with <font color=#020>JavaScript</font>
 - 📫 How to reach me: [https://zhulijun.club](https://zhulijun.club)(pending~)
 
