@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 - 🤔  Years of experiences working with <font color=#020>JavaScript</font>
 - 📫 How to know me: [https://zhulijun.club](https://zhulijun.club)
 
- [![chaos-zhu's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chaos-zhu&show_icons=true&theme=gruvbox&layout=compact)
+ ![chaos-zhu's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chaos-zhu&show_icons=true&theme=gruvbox&layout=compact)
