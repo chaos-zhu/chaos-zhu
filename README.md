@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 
 <!-- - 🌱 I’m currently learning [vue3.0](https://github.com/chaos-zhu/vue3-todolist) & CI -->
 - 🤔  3 Years of experiences working with <font color=#020>Web</font>
-- 📫 How to know me: [https://zhulijun.club](https://zhulijun.club)
+- 📫 My blog: [https://zhulijun.club](https://zhulijun.club)
 
  ![chaos-zhu's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chaos-zhu&show_icons=true&theme=gruvbox&layout=compact)
