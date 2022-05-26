@@ -1,5 +1,5 @@
 
-### Hi there 👋 [![Hi there](http://www.zpoint.xyz:8080/count/tag.svg?url=github%2Fzpoint)](https://rushter.com/blog/github-profile-markdown/) ![deploy](https://github.com/chaos-zhu/chaos-zhu-vuepress/workflows/deploy/badge.svg?branch=master&event=push)
+### Hi there 👋 ![deploy](https://github.com/chaos-zhu/chaos-zhu-vuepress/workflows/deploy/badge.svg?branch=master&event=push)
 
 <!--
 **zpoint/zpoint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
