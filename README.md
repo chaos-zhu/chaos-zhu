@@ -1,7 +1,8 @@
 
 <!-- ## Please give a Star if you like ⭐⭐⭐.  -->
 
-##  💕 Thank you for the visit. ![deploy](https://github.com/chaos-zhu/chaos-zhu-vuepress/workflows/deploy/badge.svg?branch=master&event=push)
+##  💕 Thank you for the visit. 
+<!-- ![deploy](https://github.com/chaos-zhu/chaos-zhu-vuepress/workflows/deploy/badge.svg?branch=master&event=push) -->
 
 ![](http://profile-counter.glitch.me/chaos-zhu/count.svg)
 
