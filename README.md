@@ -19,9 +19,9 @@
   </a>
 </p>
 
-
+<!--
 [![](https://activity-graph.herokuapp.com/graph?username=chaos-zhu&theme=github)](https://activity-graph.herokuapp.com/graph?username=chaos-zhu&theme=github)
-
+ -->
 
 <!-- - 🌱 I’m currently learning [vue3.0](https://github.com/chaos-zhu/vue3-todolist) & CI -->
 <!-- - 🤔  3 Years of experiences working with <font color=#020>Web</font>
